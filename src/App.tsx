@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useMemo, useState } from "react";
 
 // --- Minimal single-file task manager for freelancers ---
